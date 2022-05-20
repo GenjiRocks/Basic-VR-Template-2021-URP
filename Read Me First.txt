@@ -1,0 +1,7 @@
+Hi you can call me Techy-Senpai
+
+This folder includes the basic template for
+1, XR/Oculus integration with Unity
+2, Basic floor tracking of Oculus (teleportaion) using Trigger button
+3, Grab and throw objects
+4, Oculus analog stick Locomotion System (analog stick turning and moving around)
